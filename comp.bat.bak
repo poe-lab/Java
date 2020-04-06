@@ -1,0 +1,6 @@
+javac IntPoint.java
+javac RatTrack.java
+javac PlotPanel.java
+javac TrackControlPanel
+javac JTrackFinder.java
+javac TestTrackFinder.java

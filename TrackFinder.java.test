@@ -1,0 +1,20 @@
+//	TrackFinder.java
+//
+//	Written by: Kevin Ziemer
+//
+//	Written For: Gina Poe, University of Michigna Medical School
+//
+//	Created: 5/07/2004
+
+import java.awt.*
+import java.awt.event.*
+import java.swing.*
+
+
+class TrackFinder extends JFrame 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

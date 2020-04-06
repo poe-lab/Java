@@ -1,0 +1,27 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
+import javax.swing.*;
+
+public class TestTrackFinder {
+    
+  
+    public static void main(String[] args) 
+    {
+        
+        DoubPoint myPoints[];
+		JTrackFinder myTrackFinder;
+
+		// Set up the points
+		myPoints = new DoubPoint[5];
+		myPoints[0] = new DoubPoint(3,4);
+		myPoints[1] = new DoubPoint(20,160);
+		myPoints[2] = new DoubPoint(50,45);
+		myPoints[3] = new DoubPoint(150,77);
+		myPoints[4] = new DoubPoint(75,48);
+		
+		myTrackFinder = new JTrackFinder(myPoints,300,300);
+        
+    }
+    
+}

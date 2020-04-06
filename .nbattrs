@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="TrackControlPanel.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="TrackControlPanel"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="TrackControlPanel"/>
+    </fileobject>
+    <fileobject name="PlotPanel.java">
+        <attr name="class_dependency_java.awt.event.MouseMotionListener" stringvalue="PlotPanel"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="PlotPanel"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="PlotPanel"/>
+    </fileobject>
+    <fileobject name="JTrackFinder.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="JTrackFinder"/>
+    </fileobject>
+</attributes>
